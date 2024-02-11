@@ -6,3 +6,4 @@ This project demonstrates the following skills:
   - Identification of a business problem. 
   - Exploratory Data Analysis using Python (seaborn and plotly)
   - Application of Machine Learning algorithms.
+  - USE GOOGLE COLAB TO VIEW THE CODE. 
